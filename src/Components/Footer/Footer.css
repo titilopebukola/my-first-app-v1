@@ -1,0 +1,27 @@
+/*************
+General styling / Elements
+**************/
+
+/*************
+Images
+**************/
+
+/*************
+Buttons / Links / li / inputs
+**************/
+
+/*************
+Typography
+**************/
+
+/*************
+Layout
+**************/
+.footer-container container {
+  background-color: var(--grn1);
+  margin: 0;
+}
+
+/*************
+Media Queries
+**************/
